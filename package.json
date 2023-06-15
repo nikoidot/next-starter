@@ -13,10 +13,14 @@
     "prettier": "^2.5.1",
     "turbo": "latest"
   },
-  "name": "next-starter",
+  "name": "dosea",
   "packageManager": "npm@9.4.2",
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@headlessui/react": "^1.7.15",
+    "@heroicons/react": "^2.0.18"
+  }
 }

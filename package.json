@@ -8,27 +8,15 @@
   },
   "devDependencies": {
     "@turbo/gen": "^1.9.7",
-    "autoprefixer": "^10.4.14",
     "eslint": "^7.32.0",
     "eslint-config-custom": "*",
-    "postcss": "^8.4.24",
     "prettier": "^2.5.1",
-    "tailwindcss": "^3.3.2",
-    "turbo": "^1.9.7"
+    "turbo": "latest"
   },
-<<<<<<< HEAD
-  "name": "dosea",
+  "name": "next-starter",
   "packageManager": "npm@9.4.2",
-=======
-  "name": "my-turborepo",
-  "packageManager": "npm@9.5.0",
->>>>>>> parent of c5837bd (Merge pull request #1 from VideMelo/main)
   "workspaces": [
     "apps/*",
     "packages/*"
-  ],
-  "dependencies": {
-    "@headlessui/react": "^1.7.15",
-    "@heroicons/react": "^2.0.18"
-  }
+  ]
 }

@@ -1,5 +1,3 @@
-import 'ui/styles/global.css'
-
 export default function RootLayout({
   children,
 }: {
